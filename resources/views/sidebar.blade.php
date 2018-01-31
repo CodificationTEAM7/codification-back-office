@@ -10,7 +10,7 @@
         <img src="{{ asset("/bower_components/admin-lte/dist/img/user2-160x160.jpg") }}" class="img-circle" alt="User Image" />
       </div>
       <div class="pull-left info">
-        <p>Alexander Pierce</p>
+        <p>Admin</p>
         <!-- Status -->
         <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
       </div>
@@ -35,13 +35,7 @@
       <li ><a href="batiment"><span>Bâtiments</span></a></li>
       <li><a href="codification"><span>Codifications</span></a></li>
       <li><a href="reservation"><span>Réservations</span></a></li>
-      <!-- <li class="treeview">
-        <a href="#"><span>Multilevel</span> <i class="fa fa-angle-left pull-right"></i></a>
-        <ul class="treeview-menu">
-          <li><a href="#">Link in level 2</a></li>
-          <li><a href="#">Link in level 2</a></li>
-        </ul>
-      </li> -->
+       
     </ul><!-- /.sidebar-menu -->
   </section>
   <!-- /.sidebar -->

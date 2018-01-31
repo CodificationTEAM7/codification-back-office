@@ -112,7 +112,11 @@
               </div>
               <!-- /.box-body -->
 </div>
-
+<div class="box">
+            <div class="box-body bg-navy">
+              <button type="button" class="btn btn-default btn-block">Créer un nouveau batiment</button>
+            </div>
+          </div>
 </section>
 <!-- /.content -->
 <!-- /.content-wrapper -->

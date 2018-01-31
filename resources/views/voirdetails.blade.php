@@ -2,7 +2,9 @@
 @section('content')
 
 <div class="box box-widget widget-user">
+
                       <!-- Add the bg color to the header using any of the bg-* classes -->
+
     <div class="widget-user-header bg-aqua-active">
                         <h3 class="widget-user-username">1er Etage</h3>
                         <!--h5 class="widget-user-desc">Founder &amp; CEO</h5-->
@@ -38,20 +40,24 @@
                         <!-- /.row -->
     </div>
 </div>
-<div class="row">
+<div class="row" style="width: 800px">
         <nav class="col-sm-2">
           <div class="box box-widget widget-user-2" >
             <!-- Add the bg color to the header using any of the bg-* classes -->
-            <div class="widget-user-header bg-aqua" style="height: 400px">
-              <div class="col-md-3 col-sm-4"><i class="fa fa-fw fa-mars"></i>Etage pour homme</div>
+            <div class="widget-user-header bg-aqua" style="height: 420px; width: 120px">
+              <div class="col-md-3 col-sm-4">
+                <i class="fa fa-fw fa-mars fa-4x" ></i>
+                <br><br>
+                <font size="+1">HOMME</font>
+              </div>
             </div>
           </div>
         </nav>
         <section class="col-sm-10">
-          Section
+
           <div class="row">
             <article class="col-md-10">
-              <div class="box box-info" style="width: 500px">
+              <div class="box box-info" style="height: 400px; width: 530px">
                           <div class="box-header with-border">
                             <h3 class="box-title">Taux d'occupations</h3>
 
@@ -111,4 +117,78 @@
                             Item 1:
                             4,912
                               </div>
+                          </div>
+                        </div>
+                      </div>
+                          <!-- /.box-body -->
+              </div>
+
+            </article>
+            <nav class="col-sm-2">
+                <div class="box box-widget widget-user-2" >
+                  <!-- Add the bg color to the header using any of the bg-* classes -->
+                  <div class="widget-user-header bg-aqua" style="height: 400px; ; width: 300px" >
+
+                      <table class="table table-hover">
+                        <tbody>
+                          <tr>
+                            <font size="+3" >FREE!</font>
+                        </tr>
+                        <tr>
+                          <td>
+                            <span class="label label-warning">08</span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                          <span class="label label-warning">12</span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <span class="label label-warning">13</span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <span class="label label-warning">17</span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <span class="label label-warning">20</span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <span class="label label-warning">21</span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <span class="label label-warning">22</span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <span class="label label-warning">23</span>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <span class="label label-warning">25</span>
+                          </td>
+                        </tr>
+
+                      </tbody></table>
+                   </div>
+                  </div>
+                </div>
+            </nav>
+          </div>
+        </section>
+      </div>
+      <!--div class="col-md-3 col-sm-4"><i class="fa fa-fw fa-venus"></i> fa-venus</div-->
+
   
+@endsection

@@ -18,21 +18,20 @@
                 <li><a href="#">Nombre d'étages <span class="pull-right badge bg-blue">31</span></a></li>
                 <li><a href="#">Nombre de chambres <span class="pull-right badge bg-aqua">5</span></a></li>
                <li><a href="#">Nombre d'occupants <span class="pull-right badge bg-green">12</span></a></li>
-                <li><a href="#">Followers <span class="pull-right badge bg-red">842</span></a></li>
+
               <!--  <div class="col-md-3 col-sm-6 col-xs-12"></div>-->
                     </ul>
                     <div class="info-box bg-navy">
-                            <span class="info-box-icon"><i class="fa fa-bookmark-o"></i></span>
-
+                            <span class="info-box-icon"><i class="fa fa-fw fa-line-chart"></i></span>
                             <div class="info-box-content">
-                                <span class="info-box-text">Taux d'occupants</span>
+                                <span class="info-box-text">Taux d'occupation</span>
                                 <span class="info-box-number">41,410</span>
 
                                 <div class="progress">
                                   <div class="progress-bar" style="width: 70%"></div>
                                 </div>
                                 <span class="progress-description">
-                                    70% Increase in 30 Days
+                                    70%
                                 </span>
                            </div>
                     <!-- /.info-box-content -->
@@ -40,7 +39,9 @@
           <!-- /.info-box-->
           <div class="box-body">
               <button type="button" class="btn btn-default" data-toggle="modal" data-target="#modal-default">
+                <a href="voirdetails">
                 Voir détails
+               </a>
               </button>
               <button type="button" class="btn btn-info" data-toggle="modal" data-target="#modal-info">
                 Modifier
@@ -72,21 +73,21 @@
                 <li><a href="#">Nombre d'étages <span class="pull-right badge bg-blue">31</span></a></li>
                 <li><a href="#">Nombre de chambres <span class="pull-right badge bg-aqua">5</span></a></li>
                <li><a href="#">Nombre d'occupants <span class="pull-right badge bg-green">12</span></a></li>
-                <li><a href="#">Followers <span class="pull-right badge bg-red">842</span></a></li>
+
               <!--  <div class="col-md-3 col-sm-6 col-xs-12"></div>-->
                     </ul>
                     <div class="info-box bg-aqua">
-                            <span class="info-box-icon"><i class="fa fa-bookmark-o"></i></span>
+                            <span class="info-box-icon"><i class="fa fa-fw fa-line-chart"></i></i></span>
 
                             <div class="info-box-content">
-                                <span class="info-box-text">Taux d'occupants</span>
+                                <span class="info-box-text">Taux d'occupation</span>
                                 <span class="info-box-number">41,410</span>
 
                                 <div class="progress">
                                   <div class="progress-bar" style="width: 70%"></div>
                                 </div>
                                 <span class="progress-description">
-                                    70% Increase in 30 Days
+                                    70%
                                 </span>
                            </div>
                     <!-- /.info-box-content -->
@@ -94,7 +95,9 @@
           <!-- /.info-box-->
           <div class="box-body">
               <button type="button" class="btn btn-default" data-toggle="modal" data-target="#modal-default">
+                <a href="voirdetails">
                 Voir détails
+               </a>
               </button>
               <button type="button" class="btn btn-info" data-toggle="modal" data-target="#modal-info">
                 Modifier
@@ -126,21 +129,21 @@
           <li><a href="#">Nombre d'étages <span class="pull-right badge bg-blue">31</span></a></li>
           <li><a href="#">Nombre de chambres <span class="pull-right badge bg-aqua">5</span></a></li>
          <li><a href="#">Nombre d'occupants <span class="pull-right badge bg-green">12</span></a></li>
-          <li><a href="#">Followers <span class="pull-right badge bg-red">842</span></a></li>
+
         <!--  <div class="col-md-3 col-sm-6 col-xs-12"></div>-->
               </ul>
               <div class="info-box bg-maroon">
-                      <span class="info-box-icon"><i class="fa fa-bookmark-o"></i></span>
+                      <span class="info-box-icon"><i class="fa fa-fw fa-line-chart"></i></i></span>
 
                       <div class="info-box-content">
-                          <span class="info-box-text">Taux d'occupants</span>
+                          <span class="info-box-text">Taux d'occupation</span>
                           <span class="info-box-number">41,410</span>
 
                           <div class="progress">
                             <div class="progress-bar" style="width: 70%"></div>
                           </div>
                           <span class="progress-description">
-                              70% Increase in 30 Days
+                              70%
                           </span>
                      </div>
               <!-- /.info-box-content -->
@@ -148,7 +151,9 @@
     <!-- /.info-box-->
     <div class="box-body">
         <button type="button" class="btn btn-default" data-toggle="modal" data-target="#modal-default">
+          <a href="voirdetails">
           Voir détails
+         </a>
         </button>
         <button type="button" class="btn btn-info" data-toggle="modal" data-target="#modal-info">
           Modifier
@@ -185,26 +190,40 @@
                   <li><a href="#">Nombre d'étages <span class="pull-right badge bg-blue">31</span></a></li>
                   <li><a href="#">Nombre de chambres <span class="pull-right badge bg-aqua">5</span></a></li>
                  <li><a href="#">Nombre d'occupants <span class="pull-right badge bg-green">12</span></a></li>
-                  <li><a href="#">Followers <span class="pull-right badge bg-red">842</span></a></li>
+
                 <!--  <div class="col-md-3 col-sm-6 col-xs-12"></div>-->
                       </ul>
                       <div class="info-box bg-yellow">
-                              <span class="info-box-icon"><i class="fa fa-bookmark-o"></i></span>
+                              <span class="info-box-icon"><i class="fa fa-fw fa-line-chart"></i></i></span>
 
                               <div class="info-box-content">
-                                  <span class="info-box-text">Taux d'occupants</span>
+                                  <span class="info-box-text">Taux d'occupation</span>
                                   <span class="info-box-number">41,410</span>
 
                                   <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                   </div>
                                   <span class="progress-description">
-                                      70% Increase in 30 Days
+                                      70%
                                   </span>
                              </div>
                       <!-- /.info-box-content -->
                       </div>
             <!-- /.info-box-->
+            <div class="box-body">
+                <button type="button" class="btn btn-default" data-toggle="modal" data-target="#modal-default">
+                  <a href="voirdetails">
+                  Voir détails
+                 </a>
+                </button>
+                <button type="button" class="btn btn-info" data-toggle="modal" data-target="#modal-info">
+                  Modifier
+                </button>
+                <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modal-danger">
+                  Supprimer
+                </button>
+
+          </div>
               </div>
             </div>
           </div>
@@ -226,26 +245,40 @@
                   <li><a href="#">Nombre d'étages <span class="pull-right badge bg-blue">31</span></a></li>
                   <li><a href="#">Nombre de chambres <span class="pull-right badge bg-aqua">5</span></a></li>
                  <li><a href="#">Nombre d'occupants <span class="pull-right badge bg-green">12</span></a></li>
-                  <li><a href="#">Followers <span class="pull-right badge bg-red">842</span></a></li>
+
                 <!--  <div class="col-md-3 col-sm-6 col-xs-12"></div>-->
                       </ul>
                       <div class="info-box bg-teal">
-                              <span class="info-box-icon"><i class="fa fa-bookmark-o"></i></span>
+                              <span class="info-box-icon"><i class="fa fa-fw fa-line-chart"></i></i></span>
 
                               <div class="info-box-content">
-                                  <span class="info-box-text">Taux d'occupants</span>
+                                  <span class="info-box-text">Taux d'occupation</span>
                                   <span class="info-box-number">41,410</span>
 
                                   <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                   </div>
                                   <span class="progress-description">
-                                      70% Increase in 30 Days
+                                      70%
                                   </span>
                              </div>
                       <!-- /.info-box-content -->
                       </div>
             <!-- /.info-box-->
+            <div class="box-body">
+                <button type="button" class="btn btn-default" data-toggle="modal" data-target="#modal-default">
+                  <a href="voirdetails">
+                  Voir détails
+                 </a>
+                </button>
+                <button type="button" class="btn btn-info" data-toggle="modal" data-target="#modal-info">
+                  Modifier
+                </button>
+                <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modal-danger">
+                  Supprimer
+                </button>
+
+          </div>
               </div>
             </div>
           </div>
@@ -267,26 +300,40 @@
                   <li><a href="#">Nombre d'étages <span class="pull-right badge bg-blue">31</span></a></li>
                   <li><a href="#">Nombre de chambres <span class="pull-right badge bg-aqua">5</span></a></li>
                  <li><a href="#">Nombre d'occupants <span class="pull-right badge bg-green">12</span></a></li>
-                  <li><a href="#">Followers <span class="pull-right badge bg-red">842</span></a></li>
+
                 <!--  <div class="col-md-3 col-sm-6 col-xs-12"></div>-->
                       </ul>
                       <div class="info-box bg-purple">
-                              <span class="info-box-icon"><i class="fa fa-bookmark-o"></i></span>
+                              <span class="info-box-icon"><i class="fa fa-fw fa-line-chart"></i></i></span>
 
                               <div class="info-box-content">
-                                  <span class="info-box-text">Taux d'occupants</span>
+                                  <span class="info-box-text">Taux d'occupation</span>
                                   <span class="info-box-number">41,410</span>
 
                                   <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                   </div>
                                   <span class="progress-description">
-                                      70% Increase in 30 Days
+                                      70%
                                   </span>
                              </div>
                       <!-- /.info-box-content -->
                       </div>
             <!-- /.info-box-->
+            <div class="box-body">
+                <button type="button" class="btn btn-default" data-toggle="modal" data-target="#modal-default">
+                  <a href="voirdetails">
+                  Voir détails
+                 </a>
+                </button>
+                <button type="button" class="btn btn-info" data-toggle="modal" data-target="#modal-info">
+                  Modifier
+                </button>
+                <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modal-danger">
+                  Supprimer
+                </button>
+
+          </div>
               </div>
             </div>
           </div>
